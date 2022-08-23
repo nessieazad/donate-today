@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+}
+
+.first-sec {
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    margin-bottom: 100px;
+
+
+}
+
+.banner {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.bann-one {
+    color: white;
+    padding-top: 250px;
+    width: 50%;
+}
+
+.banner-title {
+    font-size: 50px;
+    /* margin-top: 90px; */
+
+}
+
+.banner-text {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text-width {
+    width: 50%;
+    font-size: 20px;
+    margin: 30px auto;
+}
+
+.link-botton {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: tomato;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+.div-text {
+    color: black;
+    /* margin-top: 80px; */
+    text-align: center;
+}
+
+.donate-plan {
+    margin-top: 100px;
+}
+
+
+.amount-text {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+
+}
+
+.amount {
+    margin-right: 50px;
+    background-color: lightgray;
+    padding: 50px 40px;
+    font-size: 25px;
+    font-weight: 800;
+    border-radius: 5px;
+
+}
+
+#selected {
+    background-color: lightpink;
+    border: 2px solid tomato;
+    color: tomato;
+
+}
+
+.other-amount {
+    font-size: 20px;
+    text-align: center;
+    margin: 50px 0px auto;
+}
+
+.horizontal-line {
+    width: 60%;
+    margin: 10px auto;
+    margin-bottom: 30px;
+}
+
+.display-flex {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 60px; */
+
+}
+
+.food-box {
+    background-color: lightgray;
+}
+
+.shelter-box {
+    background-color: lightpink;
+}
+
+.educ-box {
+    background-color: lightgoldenrodyellow;
+}
+
+.icons {
+    margin-right: 25px;
+    width: 20%;
+    font-size: 20px;
+    padding: 50px 25px;
+    border-radius: 3px;
+    margin-bottom: 100px;
+}
+
+.icons h3 {
+    margin: 20px 0px;
+}
+
+.half-width {
+    width: 40%;
+
+}
+
+.first-width {
+    margin-right: 50px;
+    margin-top: 15px;
+}
+
+.half-width p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.second-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.contribution {
+    margin-bottom: 150px;
+}
+
+.survive {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.input-button {
+    background-color: lightgoldenrodyellow;
+    padding: 70px;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.email {
+    padding: 15px;
+    border: 0;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.second-subscribe {
+    background-color: coral;
+    border: 0;
+    padding: 15px 40px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: black;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+    /* margin-top: 40; */
+}
+
+.be-humble {
+    color: coral;
+    font-style: italic;
+}
+
+.last-p {
+    color: white;
+    margin-top: 10px;
+}
